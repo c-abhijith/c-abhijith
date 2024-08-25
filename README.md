@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijith C
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" style="border-radius: 50%;"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" style="border-radius: 50%;" />
 
 ---
 
@@ -13,7 +13,32 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
 - 🧠  I'm learning web technologies
 - 🤝  I'm open to collaborating on anything related to web development
 
-<a href="https://www.github.com/c-abhijith" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/c-abhijith?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 100%; border-radius: 50%;" /></a>
+### Connect with Me
+
+<a href="https://www.github.com/c-abhijith" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/c-abhijith?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="border-radius: 50%; width: 150px;" />
+</a>
+<a href="https://www.linkedin.com/in/cabhijithofficial/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cabhijithofficial/" style="border-radius: 50%; width: 150px;" />
+</a>
+
+---
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="100%" style="border-radius: 20px;"/>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 
 ### Skills
