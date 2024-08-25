@@ -41,9 +41,9 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django ORM-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask Alchemy-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask%20Alchemy-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ### Databases
@@ -58,7 +58,7 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Pub/Sub-FF5252?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
@@ -68,11 +68,11 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon Route 53-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" />
 </p>
 
 ### Payment Systems
@@ -87,15 +87,24 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Figma Animation" width="100" style="display: inline-block; vertical-align: middle;" />
 </p>
 
+---
+
 ### Socials
 
-<p align="left"> <a href="https://github.com/c-abhijith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/abhijith-c-632525233/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://github.com/c-abhijith" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>  
+  <a href="https://www.linkedin.com/in/abhijith-c-632525233/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
-### Badges
+---
 
+## 📊 GitHub Stats
 
 <table style="width: 100%;">
-<b>My GitHub Stats</b>
   <tr>
     <td style="width: 50%;">
       <a href="http://www.github.com/c-abhijith">
@@ -109,6 +118,7 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
     </td>
   </tr>
 </table>
+
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%; margin: 10% auto;">
@@ -118,6 +128,3 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
     </td>
   </tr>
 </table>
-
-
-
