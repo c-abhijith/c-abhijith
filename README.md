@@ -50,11 +50,11 @@ src="https://img.shields.io/github/followers/c-abhijith?logo=github&style=for-th
     </td>
   </tr>
 </table>
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 80%;">
+    <td style="width: 80%; margin: 0 auto;">
       <a href="https://github.com/c-abhijith">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-abhijith&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" height="200px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-abhijith&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" height="300px"/>
       </a>
     </td>
   </tr>
