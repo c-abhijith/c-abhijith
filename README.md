@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Abhijith C
+# 👋 Hi, I'm Abhijith C <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="50%" style="border-radius: 20px;"/>
+
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" style="border-radius: 50%;" />
 
@@ -24,7 +25,6 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
 
 ---
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="50%" style="border-radius: 20px;"/>
 
 ---
 
