@@ -1,19 +1,20 @@
-👋 Hi, I'm Abhijith C
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif">
-======================
+# 👋 Hi, I'm Abhijith C
 
-Full Stack Web Developer
-------------------------
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" style="border-radius: 50%;"/>
+
+---
+
+## Full Stack Web Developer
 
 Passionate about coding. Enthusiastic and love to learn and work on new and old technologies.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-cabhijithofficial@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:cabhijithofficial@gmail.com)](mailto:cabhijithofficial@gmail.com)
-* 🧠  I'm learning web technologies
-* 🤝  I'm open to collaborating on anything related to web development
+- 🌍  I'm based in India
+- ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-cabhijithofficial@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:cabhijithofficial@gmail.com)](mailto:cabhijithofficial@gmail.com)
+- 🧠  I'm learning web technologies
+- 🤝  I'm open to collaborating on anything related to web development
 
-<a href="https://www.github.com/c-abhijith" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/c-abhijith?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/c-abhijith" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/c-abhijith?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 100%; border-radius: 50%;" /></a>
+
 
 ### Skills
 
