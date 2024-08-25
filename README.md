@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Abhijith C 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="30%" style="border-radius: 20px;"/>
-
+# 👋 Hi, I'm Abhijith C <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="50" style="border-radius: 20px; display: inline-block; vertical-align: middle;" />
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" style="border-radius: 50%;" />
 
@@ -26,9 +24,6 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
 
 ---
 
-
----
-
 ## 🛠️ Languages and Tools
 
 <p>
@@ -40,7 +35,6 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
-
 
 ### Skills
 
