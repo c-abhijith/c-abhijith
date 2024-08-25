@@ -24,7 +24,7 @@ Passionate about coding. Enthusiastic and love to learn and work on new and old 
 
 ---
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="100%" style="border-radius: 20px;"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Programmer" width="50%" style="border-radius: 20px;"/>
 
 ---
 
