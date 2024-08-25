@@ -1,97 +1,91 @@
-# 👋 Hi, I'm Abhijith C
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif" alt="Coding" width="600" />
-</p>
+# Hi, I'm Abhijith C 👋
 
 ---
 
 ## About Me
 
-I'm a **Full Stack Web Developer** passionate about coding, always eager to learn and explore new technologies. I enjoy working on both **new** and **old** tech stacks, building projects that solve real-world problems.
+I'm a **Full Stack Web Developer** with a passion for coding. I enjoy working on both new and established technologies, constantly seeking to learn and improve. My focus is on building robust and scalable web applications that solve real-world problems.
 
-- 🌍 Based in **India**
-- ✉️ Reach me at [cabhijithofficial@gmail.com](mailto:cabhijithofficial@gmail.com)
-- 🧠 Currently diving deep into **web technologies**
-- 🤝 Open to collaborating on exciting web development projects
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" alt="Working on Web Technologies" width="300" />
-</p>
+- **Location**: India 🌍
+- **Email**: [cabhijithofficial@gmail.com](mailto:cabhijithofficial@gmail.com) ✉️
+- **Current Learning**: Advanced web technologies 🧠
+- **Collaboration**: Open to web development projects 🤝
 
 ---
 
-## 💻 Skills
+## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,java,django,postgresql,mysql" alt="Skills" />
-</p>
+### Programming Languages
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **Java**
+- **C**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,tailwind,git,github,linux,aws" alt="Skills" />
-</p>
+### Frameworks & Libraries
+- **React.js**
+- **Django**
+- **Bootstrap**
+- **Material UI**
+- **Redux**
+- **SASS**
+- **Tailwind CSS**
 
----
+### Databases
+- **PostgreSQL**
+- **MySQL**
 
-## 🚀 Specialized Technologies
+### DevOps & Tools
+- **AWS**
+- **Heroku**
+- **Git**
+- **GitHub**
+- **Linux**
+- **Figma**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Specialized Technologies" />
-</p>
-
-- **gRPC**: Building high-performance APIs
-- **Pub/Sub**: Real-time messaging and event-driven architectures
+### Specialized Technologies
+- **gRPC**: High-performance APIs
+- **Pub/Sub**: Real-time messaging
 - **RabbitMQ**: Message broker for microservices
-- **Celery**: Task queue for asynchronous jobs
-- **Payment Systems**: Integration with Stripe, PayPal, etc.
-- **Data Structures & Algorithms**: Building efficient solutions
+- **Celery**: Asynchronous task queue
+- **Payment Systems**: Stripe, PayPal
+- **Data Structures & Algorithms**: Efficient problem-solving
 
 ---
 
-## 📂 Featured Projects
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Featured Projects" />
-</p>
+## Projects
 
 ### E-Commerce Platform
 - **Stack**: Django, React.js, PostgreSQL, Stripe
-- **Overview**: A full-featured platform with user authentication, product management, and payment processing.
+- **Description**: A comprehensive e-commerce platform featuring user authentication, product management, and payment processing.
 
 ### Real-Time Chat Application
 - **Stack**: React.js, Node.js, WebSockets, Redis
-- **Overview**: A chat app with user authentication, group chats, and real-time messaging.
+- **Description**: A chat application that supports real-time messaging, user authentication, and group chats.
 
 ### Task Management System
 - **Stack**: Django, Celery, RabbitMQ, React.js
-- **Overview**: A task management system that allows users to create, assign, and track tasks with real-time updates and background processing.
+- **Description**: A task management system with features for creating, assigning, and tracking tasks, including real-time updates and background processing.
 
 ### gRPC Microservices
 - **Stack**: gRPC, Docker, Kubernetes
-- **Overview**: A microservices architecture using gRPC for communication between services, deployed on a Kubernetes cluster.
+- **Description**: A microservices architecture utilizing gRPC for inter-service communication, deployed on a Kubernetes cluster.
 
 ---
 
-## 🌐 Socials
+## GitHub Stats
 
-<p align="center"> 
-  <a href="https://github.com/c-abhijith" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.linkedin.com/in/abhijith-c-632525233/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-abhijith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=2f2e41&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-abhijith&stroke=2f2e41&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=2f2e41&currStreakLabel=0891b2&sideNums=2f2e41&sideLabels=2f2e41&dates=2f2e41&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-abhijith&langs_count=10&title_color=0891b2&text_color=2f2e41&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 ---
 
-## 📊 GitHub Stats
+## Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-abhijith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="c-abhijith's GitHub stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-abhijith&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="45%" />
-</p>
+- **GitHub**: [c-abhijith](https://github.com/c-abhijith)
+- **LinkedIn**: [Abhijith C](https://www.linkedin.com/in/abhijith-c-632525233/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-abhijith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="50%" />
-</p>
