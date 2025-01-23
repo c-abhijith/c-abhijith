@@ -1,32 +1,30 @@
 # 🌟 ABHIJITH C 🚀
-## Full Stack Developer | Data Science & Microservices Specialist
 
-<div align="center">
+<div align="center" style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+background-size: 400% 400%;
+animation: gradient-animation 15s ease infinite;
+padding: 20px;
+border-radius: 15px;">
+
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
+
+  <style>
+    @keyframes gradient-animation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Full+Stack+Web+Developer;Data+Science+Enthusiast;Microservices+Architect;Cloud+Native+Solutions+Expert" alt="Professional Introduction" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F705AB&center=true&width=800&lines=Full+Stack+Web+Developer;Data+Science+Enthusiast;Microservices+Architect" alt="Professional Introduction" />
-</div>
-
-### 📸 Professional Snapshot
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="250" height="250" alt="Profile Picture" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-</div>
-
-### 📚 Comprehensive Technology Stack
+### 📚 Technology Stack
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### 🔧 Frameworks
-##### Web Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -42,9 +40,4 @@
   <a href="mailto:cabhijithofficial@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-### 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=c-abhijith&color=blueviolet" alt="Profile Views"/>
 </div>
