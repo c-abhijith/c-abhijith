@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F705AB&center=true&width=800&lines=Full+Stack+Web+Developer;Data+Science+Enthusiast;Microservices+Architect;Cloud+Native+Solutions+Expert" alt="Professional Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F705AB&center=true&width=800&lines=Full+Stack+Web+Developer;Data+Science+Enthusiast;Microservices+Architect" alt="Professional Introduction" />
 </div>
 
 ### 📸 Professional Snapshot
